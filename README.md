@@ -1,4 +1,4 @@
-# NutriPro: Nutrition App Using Google Gemini Pro
+# AI based Food Nutrition Identifier Using Google Gemini Pro
 
 **NutriPro** is a web application designed to analyze images of food items and provide comprehensive nutritional information. It leverages Google Gemini's generative AI to detect and label different foods, categorize them, and present nutritional facts for a healthier lifestyle.
 
